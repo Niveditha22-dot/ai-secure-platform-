@@ -263,7 +263,7 @@ ai-secure-platform/
 
 ## 📽️ Demo
 
-**Demo Video:** [YouTube / Drive Link]
+**Demo Video:** https://drive.google.com/file/d/1qazjftq2zdGPwFqf2AfFvyRiKhvLpTNP/view?usp=drivesdk
 
 The demo covers:
 1. Pasting a log file with exposed credentials → see real-time detection
@@ -273,6 +273,7 @@ The demo covers:
 
 ---
 
-## 👤 Author
+## 👤 Niveditha R
+nivedithar483@gmaail.com
 
 Built for the AI & Automation Testing Hackathon — March 2026.
